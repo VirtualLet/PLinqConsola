@@ -1,0 +1,7 @@
+H:\GitProyectos\PLinqConsola\Linq_05ArrayList\bin\Debug\Linq_05ArrayList.exe.config
+H:\GitProyectos\PLinqConsola\Linq_05ArrayList\bin\Debug\Linq_05ArrayList.exe
+H:\GitProyectos\PLinqConsola\Linq_05ArrayList\bin\Debug\Linq_05ArrayList.pdb
+H:\GitProyectos\PLinqConsola\Linq_05ArrayList\obj\Debug\Linq_05ArrayList.csproj.AssemblyReference.cache
+H:\GitProyectos\PLinqConsola\Linq_05ArrayList\obj\Debug\Linq_05ArrayList.csproj.CoreCompileInputs.cache
+H:\GitProyectos\PLinqConsola\Linq_05ArrayList\obj\Debug\Linq_05ArrayList.exe
+H:\GitProyectos\PLinqConsola\Linq_05ArrayList\obj\Debug\Linq_05ArrayList.pdb

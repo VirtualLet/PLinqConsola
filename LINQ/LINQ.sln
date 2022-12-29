@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_03MetodoClase", "..\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_04ColeccionDeClases", "..\Linq_04ColeccionDeClases\Linq_04ColeccionDeClases.csproj", "{87142520-420B-411D-AC7B-3C921C7F0956}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_05ArrayList", "..\Linq_05ArrayList\Linq_05ArrayList.csproj", "{74137176-2CCA-48F6-B7AD-3ADE391D60F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_07Operaciones", "..\Linq_07Operaciones\Linq_07Operaciones.csproj", "{3E0C63DB-B5F2-44E9-B775-9D64AA7CB75D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{87142520-420B-411D-AC7B-3C921C7F0956}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87142520-420B-411D-AC7B-3C921C7F0956}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87142520-420B-411D-AC7B-3C921C7F0956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74137176-2CCA-48F6-B7AD-3ADE391D60F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74137176-2CCA-48F6-B7AD-3ADE391D60F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74137176-2CCA-48F6-B7AD-3ADE391D60F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74137176-2CCA-48F6-B7AD-3ADE391D60F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0C63DB-B5F2-44E9-B775-9D64AA7CB75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0C63DB-B5F2-44E9-B775-9D64AA7CB75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0C63DB-B5F2-44E9-B775-9D64AA7CB75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0C63DB-B5F2-44E9-B775-9D64AA7CB75D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
