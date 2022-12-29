@@ -1,0 +1,7 @@
+H:\GitProyectos\PLinqConsola\Linq_02EjecucionDiferedaInmediata\bin\Debug\Linq_02EjecucionDiferedaInmediata.exe.config
+H:\GitProyectos\PLinqConsola\Linq_02EjecucionDiferedaInmediata\bin\Debug\Linq_02EjecucionDiferedaInmediata.exe
+H:\GitProyectos\PLinqConsola\Linq_02EjecucionDiferedaInmediata\bin\Debug\Linq_02EjecucionDiferedaInmediata.pdb
+H:\GitProyectos\PLinqConsola\Linq_02EjecucionDiferedaInmediata\obj\Debug\Linq_02EjecucionDiferedaInmediata.csproj.AssemblyReference.cache
+H:\GitProyectos\PLinqConsola\Linq_02EjecucionDiferedaInmediata\obj\Debug\Linq_02EjecucionDiferedaInmediata.csproj.CoreCompileInputs.cache
+H:\GitProyectos\PLinqConsola\Linq_02EjecucionDiferedaInmediata\obj\Debug\Linq_02EjecucionDiferedaInmediata.exe
+H:\GitProyectos\PLinqConsola\Linq_02EjecucionDiferedaInmediata\obj\Debug\Linq_02EjecucionDiferedaInmediata.pdb

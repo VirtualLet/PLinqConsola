@@ -1,0 +1,7 @@
+H:\GitProyectos\PLinqConsola\Linq_04ColeccionDeClases\bin\Debug\Linq_04ColeccionDeClases.exe.config
+H:\GitProyectos\PLinqConsola\Linq_04ColeccionDeClases\bin\Debug\Linq_04ColeccionDeClases.exe
+H:\GitProyectos\PLinqConsola\Linq_04ColeccionDeClases\bin\Debug\Linq_04ColeccionDeClases.pdb
+H:\GitProyectos\PLinqConsola\Linq_04ColeccionDeClases\obj\Debug\Linq_04ColeccionDeClases.csproj.AssemblyReference.cache
+H:\GitProyectos\PLinqConsola\Linq_04ColeccionDeClases\obj\Debug\Linq_04ColeccionDeClases.csproj.CoreCompileInputs.cache
+H:\GitProyectos\PLinqConsola\Linq_04ColeccionDeClases\obj\Debug\Linq_04ColeccionDeClases.exe
+H:\GitProyectos\PLinqConsola\Linq_04ColeccionDeClases\obj\Debug\Linq_04ColeccionDeClases.pdb

@@ -1,0 +1,7 @@
+H:\GitProyectos\PLinqConsola\Linq_03MetodoClase\bin\Debug\Linq_03MetodoClase.exe.config
+H:\GitProyectos\PLinqConsola\Linq_03MetodoClase\bin\Debug\Linq_03MetodoClase.exe
+H:\GitProyectos\PLinqConsola\Linq_03MetodoClase\bin\Debug\Linq_03MetodoClase.pdb
+H:\GitProyectos\PLinqConsola\Linq_03MetodoClase\obj\Debug\Linq_03MetodoClase.csproj.AssemblyReference.cache
+H:\GitProyectos\PLinqConsola\Linq_03MetodoClase\obj\Debug\Linq_03MetodoClase.csproj.CoreCompileInputs.cache
+H:\GitProyectos\PLinqConsola\Linq_03MetodoClase\obj\Debug\Linq_03MetodoClase.exe
+H:\GitProyectos\PLinqConsola\Linq_03MetodoClase\obj\Debug\Linq_03MetodoClase.pdb

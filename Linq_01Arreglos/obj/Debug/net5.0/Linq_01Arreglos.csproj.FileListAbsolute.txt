@@ -1,0 +1,16 @@
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\bin\Debug\net5.0\Linq_01Arreglos.exe
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\bin\Debug\net5.0\Linq_01Arreglos.deps.json
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\bin\Debug\net5.0\Linq_01Arreglos.runtimeconfig.json
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\bin\Debug\net5.0\Linq_01Arreglos.runtimeconfig.dev.json
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\bin\Debug\net5.0\Linq_01Arreglos.dll
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\bin\Debug\net5.0\ref\Linq_01Arreglos.dll
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\bin\Debug\net5.0\Linq_01Arreglos.pdb
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\obj\Debug\net5.0\Linq_01Arreglos.csproj.AssemblyReference.cache
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\obj\Debug\net5.0\Linq_01Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\obj\Debug\net5.0\Linq_01Arreglos.AssemblyInfoInputs.cache
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\obj\Debug\net5.0\Linq_01Arreglos.AssemblyInfo.cs
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\obj\Debug\net5.0\Linq_01Arreglos.csproj.CoreCompileInputs.cache
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\obj\Debug\net5.0\Linq_01Arreglos.dll
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\obj\Debug\net5.0\ref\Linq_01Arreglos.dll
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\obj\Debug\net5.0\Linq_01Arreglos.pdb
+H:\GitProyectos\PLinqConsola\Linq_01Arreglos\obj\Debug\net5.0\Linq_01Arreglos.genruntimeconfig.cache
