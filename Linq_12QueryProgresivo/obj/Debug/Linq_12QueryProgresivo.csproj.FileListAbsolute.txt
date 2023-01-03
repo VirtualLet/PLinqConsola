@@ -1,0 +1,7 @@
+H:\GitProyectos\PLinqConsola\Linq_12QueryProgresivo\bin\Debug\Linq_12QueryProgresivo.exe.config
+H:\GitProyectos\PLinqConsola\Linq_12QueryProgresivo\bin\Debug\Linq_12QueryProgresivo.exe
+H:\GitProyectos\PLinqConsola\Linq_12QueryProgresivo\bin\Debug\Linq_12QueryProgresivo.pdb
+H:\GitProyectos\PLinqConsola\Linq_12QueryProgresivo\obj\Debug\Linq_12QueryProgresivo.csproj.AssemblyReference.cache
+H:\GitProyectos\PLinqConsola\Linq_12QueryProgresivo\obj\Debug\Linq_12QueryProgresivo.csproj.CoreCompileInputs.cache
+H:\GitProyectos\PLinqConsola\Linq_12QueryProgresivo\obj\Debug\Linq_12QueryProgresivo.exe
+H:\GitProyectos\PLinqConsola\Linq_12QueryProgresivo\obj\Debug\Linq_12QueryProgresivo.pdb

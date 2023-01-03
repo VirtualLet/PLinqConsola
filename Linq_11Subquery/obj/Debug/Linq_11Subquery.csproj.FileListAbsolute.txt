@@ -1,0 +1,7 @@
+H:\GitProyectos\PLinqConsola\Linq_11Subquery\bin\Debug\Linq_11Subquery.exe.config
+H:\GitProyectos\PLinqConsola\Linq_11Subquery\bin\Debug\Linq_11Subquery.exe
+H:\GitProyectos\PLinqConsola\Linq_11Subquery\bin\Debug\Linq_11Subquery.pdb
+H:\GitProyectos\PLinqConsola\Linq_11Subquery\obj\Debug\Linq_11Subquery.csproj.AssemblyReference.cache
+H:\GitProyectos\PLinqConsola\Linq_11Subquery\obj\Debug\Linq_11Subquery.csproj.CoreCompileInputs.cache
+H:\GitProyectos\PLinqConsola\Linq_11Subquery\obj\Debug\Linq_11Subquery.exe
+H:\GitProyectos\PLinqConsola\Linq_11Subquery\obj\Debug\Linq_11Subquery.pdb

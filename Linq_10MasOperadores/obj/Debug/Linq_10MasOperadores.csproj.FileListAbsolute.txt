@@ -1,0 +1,7 @@
+H:\GitProyectos\PLinqConsola\Linq_10MasOperadores\bin\Debug\Linq_10MasOperadores.exe.config
+H:\GitProyectos\PLinqConsola\Linq_10MasOperadores\bin\Debug\Linq_10MasOperadores.exe
+H:\GitProyectos\PLinqConsola\Linq_10MasOperadores\bin\Debug\Linq_10MasOperadores.pdb
+H:\GitProyectos\PLinqConsola\Linq_10MasOperadores\obj\Debug\Linq_10MasOperadores.csproj.AssemblyReference.cache
+H:\GitProyectos\PLinqConsola\Linq_10MasOperadores\obj\Debug\Linq_10MasOperadores.csproj.CoreCompileInputs.cache
+H:\GitProyectos\PLinqConsola\Linq_10MasOperadores\obj\Debug\Linq_10MasOperadores.exe
+H:\GitProyectos\PLinqConsola\Linq_10MasOperadores\obj\Debug\Linq_10MasOperadores.pdb

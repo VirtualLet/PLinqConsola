@@ -1,0 +1,7 @@
+H:\GitProyectos\PLinqConsola\Linq_09SintaxisFluida\bin\Debug\Linq_09SintaxisFluida.exe.config
+H:\GitProyectos\PLinqConsola\Linq_09SintaxisFluida\bin\Debug\Linq_09SintaxisFluida.exe
+H:\GitProyectos\PLinqConsola\Linq_09SintaxisFluida\bin\Debug\Linq_09SintaxisFluida.pdb
+H:\GitProyectos\PLinqConsola\Linq_09SintaxisFluida\obj\Debug\Linq_09SintaxisFluida.csproj.AssemblyReference.cache
+H:\GitProyectos\PLinqConsola\Linq_09SintaxisFluida\obj\Debug\Linq_09SintaxisFluida.csproj.CoreCompileInputs.cache
+H:\GitProyectos\PLinqConsola\Linq_09SintaxisFluida\obj\Debug\Linq_09SintaxisFluida.exe
+H:\GitProyectos\PLinqConsola\Linq_09SintaxisFluida\obj\Debug\Linq_09SintaxisFluida.pdb

@@ -4,3 +4,4 @@ H:\GitProyectos\PLinqConsola\Linq_07Operaciones\bin\Debug\Linq_07Operaciones.pdb
 H:\GitProyectos\PLinqConsola\Linq_07Operaciones\obj\Debug\Linq_07Operaciones.csproj.CoreCompileInputs.cache
 H:\GitProyectos\PLinqConsola\Linq_07Operaciones\obj\Debug\Linq_07Operaciones.exe
 H:\GitProyectos\PLinqConsola\Linq_07Operaciones\obj\Debug\Linq_07Operaciones.pdb
+H:\GitProyectos\PLinqConsola\Linq_07Operaciones\obj\Debug\Linq_07Operaciones.csproj.AssemblyReference.cache
