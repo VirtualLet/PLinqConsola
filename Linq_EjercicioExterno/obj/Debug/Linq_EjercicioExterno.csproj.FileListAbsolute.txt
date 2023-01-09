@@ -1,0 +1,7 @@
+H:\GitProyectos\PLinqConsola\Linq_EjercicioExterno\bin\Debug\Linq_EjercicioExterno.exe.config
+H:\GitProyectos\PLinqConsola\Linq_EjercicioExterno\bin\Debug\Linq_EjercicioExterno.exe
+H:\GitProyectos\PLinqConsola\Linq_EjercicioExterno\bin\Debug\Linq_EjercicioExterno.pdb
+H:\GitProyectos\PLinqConsola\Linq_EjercicioExterno\obj\Debug\Linq_EjercicioExterno.csproj.AssemblyReference.cache
+H:\GitProyectos\PLinqConsola\Linq_EjercicioExterno\obj\Debug\Linq_EjercicioExterno.csproj.CoreCompileInputs.cache
+H:\GitProyectos\PLinqConsola\Linq_EjercicioExterno\obj\Debug\Linq_EjercicioExterno.exe
+H:\GitProyectos\PLinqConsola\Linq_EjercicioExterno\obj\Debug\Linq_EjercicioExterno.pdb

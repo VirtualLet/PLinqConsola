@@ -17,7 +17,7 @@ namespace Linq_11Subquery
             //Se odena alfabeticamente de acuerdo a la última palabra de cada elemento
             //Split divide en una collección a la cadena
             //Split().Last() es el subquery
-
+            //Se orden por la ultima palabra de cada una de las frases 
             IEnumerable<string> resultados = postres.OrderBy(item => item.Split().Last());
             foreach (string elem in resultados)
                 Console.WriteLine(elem);

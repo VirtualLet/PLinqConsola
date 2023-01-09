@@ -1,0 +1,7 @@
+H:\GitProyectos\PLinqConsola\Linq_13Operadores\bin\Debug\Linq_13Operadores.exe.config
+H:\GitProyectos\PLinqConsola\Linq_13Operadores\bin\Debug\Linq_13Operadores.exe
+H:\GitProyectos\PLinqConsola\Linq_13Operadores\bin\Debug\Linq_13Operadores.pdb
+H:\GitProyectos\PLinqConsola\Linq_13Operadores\obj\Debug\Linq_13Operadores.csproj.AssemblyReference.cache
+H:\GitProyectos\PLinqConsola\Linq_13Operadores\obj\Debug\Linq_13Operadores.csproj.CoreCompileInputs.cache
+H:\GitProyectos\PLinqConsola\Linq_13Operadores\obj\Debug\Linq_13Operadores.exe
+H:\GitProyectos\PLinqConsola\Linq_13Operadores\obj\Debug\Linq_13Operadores.pdb
