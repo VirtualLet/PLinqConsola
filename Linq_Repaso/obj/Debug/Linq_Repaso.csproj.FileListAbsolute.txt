@@ -1,0 +1,7 @@
+H:\GitProyectos\PLinqConsola\Linq_Repaso\bin\Debug\Linq_Repaso.exe.config
+H:\GitProyectos\PLinqConsola\Linq_Repaso\bin\Debug\Linq_Repaso.exe
+H:\GitProyectos\PLinqConsola\Linq_Repaso\bin\Debug\Linq_Repaso.pdb
+H:\GitProyectos\PLinqConsola\Linq_Repaso\obj\Debug\Linq_Repaso.csproj.AssemblyReference.cache
+H:\GitProyectos\PLinqConsola\Linq_Repaso\obj\Debug\Linq_Repaso.csproj.CoreCompileInputs.cache
+H:\GitProyectos\PLinqConsola\Linq_Repaso\obj\Debug\Linq_Repaso.exe
+H:\GitProyectos\PLinqConsola\Linq_Repaso\obj\Debug\Linq_Repaso.pdb
