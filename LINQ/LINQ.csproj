@@ -43,8 +43,37 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EntAddress.cs" />
+    <Compile Include="Uso_Skip.cs" />
+    <Compile Include="Uso_SkipWhile.cs" />
+    <Compile Include="Uso_Take.cs" />
+    <Compile Include="Uso_TakeWhile.cs" />
+    <Compile Include="Uso_Distinct.cs" />
+    <Compile Include="Uso_Except.cs" />
+    <Compile Include="Uso_Intersect.cs" />
+    <Compile Include="Uso_Union.cs" />
+    <Compile Include="Uso_Contains.cs" />
+    <Compile Include="DataMethod.cs" />
+    <Compile Include="EntEmployee.cs" />
+    <Compile Include="EntPersona.cs" />
+    <Compile Include="EntMarks.cs" />
+    <Compile Include="EntStudentComparer.cs" />
+    <Compile Include="EntStudentSimple.cs" />
+    <Compile Include="Uso_Quantifier.cs" />
+    <Compile Include="Uso_Reverse.cs" />
+    <Compile Include="Uso_OrderBy.cs" />
+    <Compile Include="Uso_TypeOf.cs" />
+    <Compile Include="Uso_Where.cs" />
+    <Compile Include="Uso_SelectMany.cs" />
+    <Compile Include="Uso_Select.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="EntTechs.cs" />
+    <Compile Include="EntStudent.cs" />
+    <Compile Include="EntStudentDistinct.cs" />
+    <Compile Include="EntSubject.cs" />
+    <Compile Include="Uso_TiposDeSintaxis.cs" />
+    <Compile Include="Uso_IEnumerableIQuerable.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

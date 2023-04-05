@@ -1,0 +1,7 @@
+H:\GitProyectos\PLinqConsola\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+H:\GitProyectos\PLinqConsola\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+H:\GitProyectos\PLinqConsola\LINQ\bin\Debug\LINQ.exe.config
+H:\GitProyectos\PLinqConsola\LINQ\bin\Debug\LINQ.exe
+H:\GitProyectos\PLinqConsola\LINQ\bin\Debug\LINQ.pdb
+H:\GitProyectos\PLinqConsola\LINQ\obj\Debug\LINQ.exe
+H:\GitProyectos\PLinqConsola\LINQ\obj\Debug\LINQ.pdb
