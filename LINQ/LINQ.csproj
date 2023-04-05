@@ -43,7 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Uso_ElementAt.cs" />
     <Compile Include="EntAddress.cs" />
+    <Compile Include="Uso_First.cs" />
+    <Compile Include="Uso_Join.cs" />
+    <Compile Include="Uso_Last.cs" />
+    <Compile Include="Uso_Paging.cs" />
+    <Compile Include="EntTrabajador.cs" />
+    <Compile Include="Uso_Single.cs" />
     <Compile Include="Uso_Skip.cs" />
     <Compile Include="Uso_SkipWhile.cs" />
     <Compile Include="Uso_Take.cs" />

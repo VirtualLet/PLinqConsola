@@ -29,8 +29,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_13Operadores", "..\Lin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_EjercicioExterno", "..\Linq_EjercicioExterno\Linq_EjercicioExterno.csproj", "{1F7A6839-01DB-4269-A67F-1D4D893C38DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_Repaso", "..\Linq_Repaso\Linq_Repaso.csproj", "{ECC60045-3D6C-48B3-A817-F36FD6DA1C84}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -89,10 +87,6 @@ Global
 		{1F7A6839-01DB-4269-A67F-1D4D893C38DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F7A6839-01DB-4269-A67F-1D4D893C38DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F7A6839-01DB-4269-A67F-1D4D893C38DC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ECC60045-3D6C-48B3-A817-F36FD6DA1C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ECC60045-3D6C-48B3-A817-F36FD6DA1C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ECC60045-3D6C-48B3-A817-F36FD6DA1C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ECC60045-3D6C-48B3-A817-F36FD6DA1C84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
